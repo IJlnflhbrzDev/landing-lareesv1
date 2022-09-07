@@ -67,6 +67,7 @@ body {
 
 .Lbanner-section .carousel .carousel-inner img {
   width: 100%;
+  height: 600px;
 }
 
 .Lbanner-section .carousel .carousel-control-prev {
