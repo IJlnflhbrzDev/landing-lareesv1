@@ -233,6 +233,9 @@ body {
 }
 
 @media (max-width: 820px) {
+  .Lbanner-section .carousel .carousel-inner img {
+    height: auto !important;
+  }
   .Lcontent-section1 .Lcontent-1 {
     width: 100%;
     margin-top: 20px;
